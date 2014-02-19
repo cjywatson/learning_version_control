@@ -4,3 +4,5 @@ data <- read.csv("data/gapminder-FiveYearData.csv", stringsAsFactors=FALSE)
 
 ###ARRRHHH - THIS DOES NOW NOT WORK###
 
+###Now we're looking good again 
+
